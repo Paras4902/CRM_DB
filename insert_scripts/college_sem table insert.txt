@@ -1,0 +1,8 @@
+insert into college_sem values(col_sem_seq.nextval,'FIRST SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'SECOND SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'THIRD SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'FOURTH SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'FIFTH SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'SIXTH SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'SEVENTH SEMESTER');
+insert into college_sem values(col_sem_seq.nextval,'EIGHTH SEMESTER');

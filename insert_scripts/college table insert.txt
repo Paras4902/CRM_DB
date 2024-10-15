@@ -1,0 +1,6 @@
+insert into college values(college_seq.nextval,'G H Raisoni Institute of Engineering and Technology');
+insert into college values(college_seq.nextval,'G H Raisoni College of Engineering and Technology');
+insert into college values(college_seq.nextval,'Ramdeobaba College of Engineering and Management');
+insert into college values(college_seq.nextval,'Yeshwantrao Chavan College of Engineering');
+insert into college values(college_seq.nextval,'KDK College of Engineering');
+insert into college values(college_seq.nextval,'Priyadarshini College of Engineering');

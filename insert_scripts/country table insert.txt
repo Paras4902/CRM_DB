@@ -1,0 +1,5 @@
+insert into country values(country_seq.nextval,'INDIA');
+insert into country values(country_seq.nextval,'UNITED STATES OF AMERICA');
+insert into country values(country_seq.nextval,'UNITED KINGDOM');
+insert into country values(country_seq.nextval,'AUSTRALIA');
+insert into country values(country_seq.nextval,'BRAZIL');

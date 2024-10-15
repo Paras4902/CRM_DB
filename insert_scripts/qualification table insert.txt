@@ -1,0 +1,5 @@
+insert into qualification values(qual_seq.nextval,'BACHELOR''S DEGREE');
+insert into qualification values(qual_seq.nextval,'MASTER''S DEGREE');
+insert into qualification values(qual_seq.nextval,'PHD');
+insert into qualification values(qual_seq.nextval,'ASSOCIATE DEGREE');
+insert into qualification values(qual_seq.nextval,'DOCTORAL DEGREE');

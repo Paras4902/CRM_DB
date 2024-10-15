@@ -1,0 +1,13 @@
+insert into stream values(stream_seq.nextval,'DATA SCIENCE');
+insert into stream values(stream_seq.nextval,'ARTIFICIAL INTELLIGENCE');
+insert into stream values(stream_seq.nextval,'CYBERSECURITY');
+insert into stream values(stream_seq.nextval,'COMPUTER SCIENCE');
+insert into stream values(stream_seq.nextval,'MECHANICAL');
+insert into stream values(stream_seq.nextval,'ELECTRICAL');
+insert into stream values(stream_seq.nextval,'ELECTRONICS AND TELECOMMUNICATION');
+insert into stream values(stream_seq.nextval,'CIVIL');
+insert into stream values(stream_seq.nextval,'BBA');
+insert into stream values(stream_seq.nextval,'BCA');
+insert into stream values(stream_seq.nextval,'BCCA');
+insert into stream values(stream_seq.nextval,'MCA');
+insert into stream values(stream_seq.nextval,'MBA');

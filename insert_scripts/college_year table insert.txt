@@ -1,0 +1,4 @@
+insert into college_year values(col_year_seq.nextval,'FIRST YEAR');
+insert into college_year values(col_year_seq.nextval,'SECOND YEAR');
+insert into college_year values(col_year_seq.nextval,'THIRD YEAR');
+insert into college_year values(col_year_seq.nextval,'FOURTH YEAR');

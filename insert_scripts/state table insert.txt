@@ -1,0 +1,24 @@
+insert into state values(state_seq.nextval, 'ANDHRA PRADESH', (select country_id from country where trim(lower(country_name)) = trim(lower('INDIA'))));
+insert into state values(state_seq.nextval, 'KARNATAKA', (select country_id from country where trim(lower(country_name)) = trim(lower('INDIA'))));
+insert into state values(state_seq.nextval, 'UTTAR PRADESH', (select country_id from country where trim(lower(country_name)) = trim(lower('INDIA'))));
+insert into state values(state_seq.nextval, 'TAMIL NADU', (select country_id from country where trim(lower(country_name)) = trim(lower('INDIA'))));
+insert into state values(state_seq.nextval, 'MAHARASHTRA', (select country_id from country where trim(lower(country_name)) = trim(lower('INDIA'))));
+insert into state values(state_seq.nextval, 'CALIFORNIA', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED STATES OF AMERICA'))));
+insert into state values(state_seq.nextval, 'TEXAS', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED STATES OF AMERICA'))));
+insert into state values(state_seq.nextval, 'NEW YORK', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED STATES OF AMERICA'))));
+insert into state values(state_seq.nextval, 'FLORIDA', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED STATES OF AMERICA'))));
+insert into state values(state_seq.nextval, 'ILLINOIS', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED STATES OF AMERICA'))));
+insert into state values(state_seq.nextval, 'ENGLAND', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED KINGDOM'))));
+insert into state values(state_seq.nextval, 'SCOTLAND', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED KINGDOM'))));
+insert into state values(state_seq.nextval, 'WALES', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED KINGDOM'))));
+insert into state values(state_seq.nextval, 'NORTHERN IRELAND', (select country_id from country where trim(lower(country_name)) = trim(lower('UNITED KINGDOM'))));
+insert into state values(state_seq.nextval, 'NEW SOUTH WALES', (select country_id from country where trim(lower(country_name)) = trim(lower('AUSTRALIA'))));
+insert into state values(state_seq.nextval, 'VICTORIA', (select country_id from country where trim(lower(country_name)) = trim(lower('AUSTRALIA'))));
+insert into state values(state_seq.nextval, 'QUEENSLAND', (select country_id from country where trim(lower(country_name)) = trim(lower('AUSTRALIA'))));
+insert into state values(state_seq.nextval, 'WESTERN AUSTRALIA', (select country_id from country where trim(lower(country_name)) = trim(lower('AUSTRALIA'))));
+insert into state values(state_seq.nextval, 'SOUTH AUSTRALIA', (select country_id from country where trim(lower(country_name)) = trim(lower('AUSTRALIA'))));
+insert into state values(state_seq.nextval, 'ACRE', (select country_id from country where trim(lower(country_name)) = trim(lower('BRAZIL'))));
+insert into state values(state_seq.nextval, 'ALAGOAS', (select country_id from country where trim(lower(country_name)) = trim(lower('BRAZIL'))));
+insert into state values(state_seq.nextval, 'AMAZONAS', (select country_id from country where trim(lower(country_name)) = trim(lower('BRAZIL'))));
+insert into state values(state_seq.nextval, 'BAHIA', (select country_id from country where trim(lower(country_name)) = trim(lower('BRAZIL'))));
+
